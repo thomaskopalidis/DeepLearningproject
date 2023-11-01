@@ -1,2 +1,2 @@
-# DeepLearningproject
-Compilation of python code 
+# DeepLearning and ML project
+Compilation of python code and R
